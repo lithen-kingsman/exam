@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "medlibrary", "medlibrary\medlibrary.csproj", "{3E6F3C77-72DB-4E5E-94E7-95FB5B6464E3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "medtest", "medtest\medtest.csproj", "{BA2AB770-7349-4F20-8F70-0A137AB59DB2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3E6F3C77-72DB-4E5E-94E7-95FB5B6464E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E6F3C77-72DB-4E5E-94E7-95FB5B6464E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E6F3C77-72DB-4E5E-94E7-95FB5B6464E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E6F3C77-72DB-4E5E-94E7-95FB5B6464E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA2AB770-7349-4F20-8F70-0A137AB59DB2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA2AB770-7349-4F20-8F70-0A137AB59DB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA2AB770-7349-4F20-8F70-0A137AB59DB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA2AB770-7349-4F20-8F70-0A137AB59DB2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8AB2B840-8E29-4125-AD69-7AF1B7CD7C2A}
+	EndGlobalSection
+EndGlobal
