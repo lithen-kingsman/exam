@@ -9,7 +9,7 @@ namespace medlibrary
     public class Medicine
     {
         public readonly int Articul;
-        public string Name;
+        Go away
         public string Producer;
         public int Price;
         public int RemainsOnStock;
